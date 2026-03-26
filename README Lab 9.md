@@ -11,9 +11,11 @@ In this lab, you learned about the basic building block of sequential circuits: 
 |Question 2|Your answers to the question|25%|
 |Question 3|Your answers to the question|25%|
 
-## Names Peter Krahn Troy Fowers
+## Names Peter Krahn, Troy Fowers
 
 ## Summary
+
+In this lab we created a d-latch and a memory system. In this memory system, we were able to assign two switches on our Basys3 board different states of memory, as well as being able to set a state of memory not assigned to any switches. By doing this, we were able to simulate memory using LED's which get switched on and off using the switches and the center button. The center button on our board was similar to an enable, as when pressed the LED's will be remembered in whatever state they are assigned to, and when pressed again the board "forgets" the state of the LED's.
 
 ## Lab Questions
 
